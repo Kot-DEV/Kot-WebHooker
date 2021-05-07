@@ -1,0 +1,10 @@
+{
+    "webhook": {
+        "title": "TITLE EMBEDA",
+        "description": "DESCRIPTION EMBEDA",
+        "color": "KOLOR EMBEDA W HEX",
+        "footer": "FOOTER EMBEDA",
+        "id": "ID WEBHOOKA",
+        "token": "TOKEN WEBHOOKA"   
+    }
+}
